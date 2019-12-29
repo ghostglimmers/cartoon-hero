@@ -1,0 +1,84 @@
+body{
+	margin: 0px;
+	font-family: helvetica, arial, san-serif;
+	font-size: 20px;
+	line-height: 30px;
+}
+
+header{
+	background-color: indianred;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+h1, h2{
+	font-family: 'Flamenco', cursive;
+}
+
+header h1{
+	color: white;
+	font-size: 50px;
+
+}
+
+header img{
+	border-radius: 170px;
+	width: 300px;
+	border: 10px solid white;
+}
+
+main {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+main img{
+	max-width: 800px;
+}
+
+h2{
+	font-size: 35px;
+	color: indianred;
+	margin: 40px 0 10px;
+
+}
+
+a{
+	color: indianred;
+
+}
+a:hover{
+	color:white;
+	background-color: indianred;
+}
+
+footer{
+	background-color: indianred;
+	text-align: center;
+	color: white;
+	padding: 50px;
+}
+
+footer p{
+	margin: 0px;
+}
+
+footer a{
+	color: white;
+}
+footer a:hover{
+	opacity: .5;
+	background-color: transparent;
+}
+
+p.caption{
+	color: #999999;
+	font-style: italic;
+	font-size: 15px;
+	margin: 0;
+
+}
+
+
